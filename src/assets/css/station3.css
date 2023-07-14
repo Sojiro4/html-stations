@@ -1,8 +1,5 @@
 .card {
   background-color: #ffffff;
-  width: 300px;
-  height: 200px;
-  margin: auto;
 }
 .card__title {
   color: #282828;
