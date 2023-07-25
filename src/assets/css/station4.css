@@ -1,3 +1,9 @@
+header{
+  color:#fff
+}
+body{
+  color: #c4c4c4;
+}
 .card {
     padding:5px;
     background-color: #fff;
@@ -14,5 +20,8 @@
     width: 288px;
     height: 182px;
     margin-bottom: 10px;
+  }
+  footer{
+
   }
   
